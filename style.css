@@ -1,0 +1,41 @@
+body {
+
+    background-color:#EAF6F6;
+}
+
+p {
+    color:brown;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: sans-serif;
+    width: 29%;
+
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+li {
+    color: brown;
+}
+
+thead {
+    color:darkorange;
+}
+
+tr {
+    color:black;
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 2px;
+    border-color: rgb(189, 240, 5);
+}
+
+img {
+    border-radius: 100%;
+}
